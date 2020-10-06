@@ -1,0 +1,5 @@
+JDBC_DATABASE_URL=postgres://lsiacswlkoxxqh:6c5675716926953abff74dc73cc144085eb24f529b87e01dc4aad8d458829db1@ec2-3-226-231-4.compute-1.amazonaws.com:5432/d2kjhh3hoievh1
+JDBC_DATABASE_USERNAME=lsiacswlkoxxqh
+JDBC_DATABASE_PASSWORD=6c5675716926953abff74dc73cc144085eb24f529b87e01dc4aad8d458829db1
+JDBC_DATABASE_DRIVER=org.postgresql.Driver
+SPRING_JPA_HIBERNATE_DIALECT=org.hibernate.dialect.PostgreSQL9Dialect
